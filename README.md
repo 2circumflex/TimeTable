@@ -4,6 +4,8 @@
 
 시간표 조회에 대한 소스입니다.
 
+![ScreenShot](screen_shot.png)
+
 **[동영상 링크](https://drive.google.com/file/d/0Bxk2cyRX7WmxMUJmT0RWMnRNZ1k/view)** 43초에 나옵니다.
 
 * Model
